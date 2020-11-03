@@ -13,3 +13,4 @@ class Solution {
         return n % 4 != 0;   
     }
 }
+
