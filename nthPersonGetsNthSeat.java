@@ -11,3 +11,4 @@ class Solution {
         return n == 1? 1 : .5;
     }
 }
+
